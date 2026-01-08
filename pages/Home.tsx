@@ -16,7 +16,7 @@ const Home: React.FC = () => {
   return (
     <div className="pb-20">
       {/* Hero Section */}
-      <section className="relative h-[70vh] flex items-center justify-center overflow-hidden">
+      <section className="relative h-[70vh] flex items-center justify-center overflow-hidden mb-16">
         <div className="absolute inset-0 z-0">
           <img 
             src="https://images.unsplash.com/photo-1478720568477-152d9b164e26?auto=format&fit=crop&w=1920&q=80" 
